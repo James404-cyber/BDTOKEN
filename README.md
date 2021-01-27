@@ -22,6 +22,7 @@
 $ pkg update
 $ pkg upgrade
 $ pkg install python
+$ pkg install nodejs
 $ pkg install python2
 $ pip2 install requests
 $ pip2 install mechanize
@@ -35,7 +36,7 @@ $ python2 hacker.py
 # Single Command 
 
 ```
-pkg update ; pkg upgrade ; pkg install python ; pkg install python2 ; pip2 install requests ; pip2 install mechanize ; pip2 install bs4 ; pkg install git ; git clone https://github.com/James404-cyber/BDTOKEN.git ; cd BDTOKEN ; python2 hacker.py
+pkg update ; pkg upgrade ; pkg install python ; pkg install python2 ; pip2 install requests ; pip2 install mechanize ; pkg install nodjes ; pkg install git ; git clone https://github.com/James404-cyber/BDTOKEN.git ; cd BDTOKEN ; python2 hacker.py
 ```
 TOOL USER : (Contact For Me)</br>
 TOOL PASS : (Contact For Me)</br>
